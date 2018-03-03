@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: my first blog
-subtitle:
-description:
+title: 小六仔的博客
+subtitle: 梦想什么时候开始都不算晚
+description: 
 author: yaojun
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -72,7 +72,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Aero-Dual
+theme: next
+# theme_style is default to 'light'
+theme_style: light
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
