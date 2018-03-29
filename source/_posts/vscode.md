@@ -18,4 +18,4 @@ categories: vscode
 
 ## markdown插件
 
-* Markdown Preview Enhanced:
+* Markdown Preview Enhanced:可以到它的 [中文网站](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/) 上查看编写markdown的基本要素
